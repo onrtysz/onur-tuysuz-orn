@@ -1,0 +1,28 @@
+{
+  "name": "onur-tysz",
+  "version": "1.0.0",
+  "description": "Deneme dosyasıdır",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Onur": "echo 'Benim adım onur'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Paket1",
+    "paket2"
+  ],
+  "author": "Onur Tüysüz",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.10",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.7.0"
+  },
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/onrtysz/onur-tuysuz-orn.git" 
+  }
+}
